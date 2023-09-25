@@ -5,13 +5,14 @@ A list (in no particular order) of things I'd like to achieve or experience befo
 
 ## The List
 
-- [ ] Circumnavigate the globe.
+- [ ] visit all continents
 - [ ] Start a product based company.
-- [ ] Live for at least a year with no home.
+- [ ] Live overseas.
 - [ ] Write a book.
 - [ ] Learn some AI programing.
-- [ ] Create a game that (at least some) people play.
+- [ ] Create a board game that (at least some) people play.
 - [ ] Record an album.
 - [ ] Have kids.
-- [ ] Skydive.
-- [ ] Live in a remote cabin for at least a month.
+- [ ] learn to fly helicopters
+- [ ] learn electronic CAD design
+- [ ] build a remote cabin for at least a month.
