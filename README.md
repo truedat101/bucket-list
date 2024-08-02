@@ -19,4 +19,4 @@ A list (in no particular order) of things I'd like to achieve or experience befo
 - [ ] learn electronic CAD design
 - [ ] Get a patent award
 - [ ] Build a mountain house
-- [ ] build a remote cabin for at least a month.
+- [ ] live in a remote cabin for at least a month without Internet!.
