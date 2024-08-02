@@ -6,13 +6,17 @@ A list (in no particular order) of things I'd like to achieve or experience befo
 ## The List
 
 - [ ] visit all continents
-- [ ] Start a product based company.
-- [ ] Live overseas.
-- [ ] Write a book.
-- [ ] Learn some AI programing.
+- [ ] Visit Machu Pichu
+- [ ] Sunrise at Telum
+- [x] Start a product based company.
+- [x] Live overseas.
+- [ ] Write a book. (I keep starting and stopping)
+- [x] Learn some AI programing.
 - [ ] Create a board game that (at least some) people play.
 - [ ] Record an album.
-- [ ] Have kids.
+- [x] Have kids.
 - [ ] learn to fly helicopters
 - [ ] learn electronic CAD design
+- [ ] Get a patent award
+- [ ] Build a mountain house
 - [ ] build a remote cabin for at least a month.
